@@ -1,0 +1,9 @@
+.account-dropdown{
+    cursor: pointer;
+}
+
+.account-dropdown:hover{
+    background-color: #2a63a5 !important;
+    color: white !important; 
+    transition: 300ms all ease-in-out; 
+}

@@ -1,0 +1,15 @@
+.sideimages-mainwrapper{
+    margin-top:40%; 
+}
+ 
+ 
+@media (max-width: 575px) {
+     
+     .sideimages-mainwrapper img{
+         padding-bottom: 10px;
+     }
+
+    
+  
+}
+ 

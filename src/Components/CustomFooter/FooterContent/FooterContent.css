@@ -1,0 +1,22 @@
+.footer-content{
+    padding: 0px 0px 0px 0x !important; 
+    background-color: rgb(71, 100, 98);
+     
+}
+.subscribe-content input{
+    color: white !important; 
+ }
+ 
+ .subscribe-content input label{
+     color: white !important; 
+  }
+
+  .subscribe-content label{
+      color: white !important; 
+  }
+  ul li a:hover {
+     font-size: 120%; 
+     transition: 300ms all ease-in-out; 
+      color: orange !important; 
+  }
+ 

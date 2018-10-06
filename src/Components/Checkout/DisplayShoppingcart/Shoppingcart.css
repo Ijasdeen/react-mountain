@@ -1,0 +1,15 @@
+#discount-field{
+    max-width: 200px !important;
+}
+
+.product-image{
+    max-width: 30px !important;
+}
+ 
+#product-listwrapper{
+    overflow-y: scroll !important; 
+    position: relative !important;
+    height: 200px !important;
+}
+
+ 
